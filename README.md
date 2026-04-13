@@ -1,4 +1,4 @@
-Gravity Forms + WPML Validation Messages Fix
+# GF WPML Validation Messages Fix
 
 🌐 English | Español
 
