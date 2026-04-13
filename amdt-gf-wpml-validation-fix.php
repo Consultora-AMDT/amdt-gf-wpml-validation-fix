@@ -1,6 +1,7 @@
 <?php
 /**
- * Plugin Name: Gravity Forms + WPML Validation Messages Fix
+ * Plugin Name: GF WPML Validation Messages Fix
+
  * Description: Corrige los mensajes de validación de Gravity Forms que no se traducen
  *              correctamente con WPML. Compatible con cualquier idioma, sin necesidad
  *              de actualización manual al añadir nuevos idiomas.
